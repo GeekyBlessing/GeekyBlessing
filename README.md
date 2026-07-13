@@ -90,7 +90,7 @@ Visualizes AWS IAM privilege escalation paths and attack chains.
 
 # 🌎 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/toriola-opeyemi-279757249?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- LinkedIn: https://www.linkedin.com/in/toriola-opeyemi-279757249
 - Portfolio: https://toriolaopeyemi.com
 - Email: opeyemitoriola41@gmail.com
 
