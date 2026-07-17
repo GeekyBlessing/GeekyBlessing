@@ -1,6 +1,6 @@
 # Hi 👋, I'm Toriola Opeyemi
 
-### ☁️ Cloud Security Engineer | AI Security Researcher | Detection Engineer | Open Source Contributor
+### ☁️ Cloud Security Engineer | AI Security Researcher | Detection Engineer | Open Source Contributor | website freelancer
 
 I build cloud-native security platforms that combine **AWS, AI, Detection Engineering, Attack Path Analysis, MITRE ATT&CK, Terraform, FastAPI, LangGraph, and React** to solve real-world cloud security problems.
 
