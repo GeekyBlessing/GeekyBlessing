@@ -96,4 +96,4 @@ Visualizes AWS IAM privilege escalation paths and attack chains.
 
 ---
 
-⭐ Always building. Always learning. Always securing cloud infrastructure.
+⭐ Always building. Always learning. Always securing cloud infrastructure
