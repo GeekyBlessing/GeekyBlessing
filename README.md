@@ -63,7 +63,7 @@ Interactive attack graph platform for cloud environments powered by Neo4j and AI
 ---
 
 ## 🔥 IAM PrivEsc Graph
-Visualizes AWS IAM privilege escalation paths and attack chains.
+Visualizes AWS IAM privilege escalation paths and attack chains
 
 ---
 
