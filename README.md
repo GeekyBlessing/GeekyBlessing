@@ -1,95 +1,46 @@
 # Hi 👋, I'm Toriola Opeyemi
 
-### ☁️ Cloud Security Engineer | AI Security Researcher | Detection Engineer | Open Source Contributor | website freelancer
+## Software Engineer | Cloud Security | Security Automation
 
-I build cloud-native security platforms that combine **AWS, AI, Detection Engineering, Attack Path Analysis, MITRE ATT&CK, Terraform, FastAPI, LangGraph, and React** to solve real-world cloud security problems.
+I build software products and cloud systems with security engineered into the architecture.
 
----
+My work sits at the intersection of **software engineering, cloud infrastructure, cybersecurity, and automation**. I build full-stack applications, design backend systems, deploy cloud infrastructure, and develop security solutions that detect, analyze, and respond to real-world threats.
 
-## 🚀 About Me
+### What I work with
 
-- ☁️ Cloud Security Engineer
-- 🤖 AI Security Researcher
-- 🛡️ Detection Engineer
-- 🔍 Threat Hunter
-- 🧠 Building AI-powered Cloud Security Platforms
-- 🌍 Open Source Contributor
-- 📍 Nigeria
+- **Software Engineering:** Python, TypeScript, FastAPI, Next.js, REST APIs, PostgreSQL
+- **Cloud & Infrastructure:** AWS, Terraform, Docker, CI/CD
+- **Security:** Cloud Security, Application Security, Detection Engineering, Security Automation
+- **AI Engineering:** AI-powered applications, LLM integrations, AI security
+- **Engineering Practices:** Testing, API design, system architecture, observability
 
----
+### Selected Work
 
-## 🛠 Tech Stack
+🔹 **CareerFound**  
+A full-stack AI-powered career platform combining software engineering, AI, PostgreSQL, authentication, career intelligence, and personalized learning workflows.
 
-### Cloud
-AWS • Terraform • CloudFormation • IAM • EC2 • S3 • Lambda • DynamoDB • EventBridge
+🔹 **OWNIT**  
+A full-stack real-estate marketplace built around modern web architecture, backend APIs, PostgreSQL/PostGIS, authentication, and scalable product workflows.
 
-### Backend
-Python • FastAPI • Flask
+🔹 **Cloud Security Engineering**  
+Security platforms and automation projects focused on AWS security, attack-path analysis, detection engineering, threat analysis, and automated response.
 
-### Frontend
-React • TypeScript • Tailwind CSS
+I enjoy taking a problem from **idea → architecture → implementation → deployment → security → automation**.
 
-### AI
-LangChain • LangGraph • OpenAI • HuggingFace • Transformers • FAISS
+### Current Focus
 
-### Security
-MITRE ATT&CK • Sigma Rules • Detection Engineering • CSPM • Attack Path Analysis • IAM Security • DevSecOps
+- Building production-quality software
+- Deepening my backend and system design expertise
+- Cloud-native engineering on AWS
+- Application and cloud security
+- Detection engineering and security automation
+- AI-powered software systems
 
-### DevOps
-Docker • GitHub Actions • Linux • Git
+### Connect
 
----
-
-# 🌟 Featured Projects
-
-## ☁️ CloudSentinel CSPM
-Cloud Security Posture Management platform that maps AWS misconfigurations to MITRE ATT&CK techniques, blast radius, attack paths, and compliance frameworks.
-
----
-
-## 🤖 CloudOps AI
-Agentic CloudOps platform that detects incidents, coordinates AI investigations, and recommends automated remediation.
-
----
-
-## 🛡 Sentinel Rules
-Detection-as-Code engine using Sigma rules mapped to MITRE ATT&CK with automated testing.
-
----
-
-## 🕸 AttackGraph AI
-Interactive attack graph platform for cloud environments powered by Neo4j and AI reasoning.
-
----
-
-## 🔥 IAM PrivEsc Graph
-Visualizes AWS IAM privilege escalation paths and attack chains
-
----
-
-# 📚 Currently Learning
-
-- AI Agents
-- LLM Security
-- MCP
-- Kubernetes Security
-- eBPF
-- Cloud Detection Engineering
-- Azure Security
-- GCP Security
-
----
-
-# 🏆 Certifications
-
-- AWS Certified Solutions Architect (In Progress)
-- Security+
-- AWS Security Specialty (Planned)
-
----
-
-# 🌎 Let's Connect
-
+🌐 [Portfolio](https://toriolaopeyemi.com/)
+💼 [LinkedIn](YOUR_LINKEDIN_URL)
+🐙 [GitHub](https://github.com/GeekyBlessing)
 - LinkedIn: https://www.linkedin.com/in/toriola-opeyemi-279757249
 - Portfolio: https://toriolaopeyemi.com
 - Email: opeyemitoriola41@gmail.com
